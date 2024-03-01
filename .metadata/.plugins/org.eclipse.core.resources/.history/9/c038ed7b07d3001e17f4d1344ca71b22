@@ -1,0 +1,15 @@
+package modelo.entidad;
+
+import java.io.Serializable;
+
+public class Articulo implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -2604537702199604504L;
+	
+	
+			
+
+}
